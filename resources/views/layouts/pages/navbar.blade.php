@@ -9,7 +9,8 @@
             </div>
         </div>
         <div class="w-full flex-grow sm:flex sm:items-center sm:w-auto">
-            <div class="w-full container mx-auto flex flex-col sm:flex-row items-center justify-center text-sm font-bold uppercase mt-0 px- py-2">
+            <div
+                class="w-full container mx-auto flex flex-col sm:flex-row items-center justify-center text-sm font-bold uppercase mt-0 px- py-2">
                 <a href="#" class="hover:text-gray-400 rounded py-4 px-2 mx-2">Interviews</a>
                 <a href="#" class="hover:text-gray-400 rounded py-4 px-2 mx-2">Articles</a>
                 <a href="contributors" class="hover:text-gray-400 rounded py-4 px-2 mx-2">Contributors</a>
@@ -20,11 +21,10 @@
         </div>
         <div>
             <ul class="flex items-center font-bold text-sm text-gray-900 uppercase no-underline">
-                <li><a class="hover:text-gray-500 hover:underline ml-2 px-2" href="home">Log In</a></li>
+                <li><a class="hover:text-gray-500 hover:underline ml-2 px-2" href="#">Log In</a></li>
                 <li>|</li>
-                <li><a class="hover:text-gray-500 hover:underline px-2" href="register">Register</a></li>
+                <li><a class="hover:text-gray-500 hover:underline px-2" href="#">Sign Up</a></li>
             </ul>
         </div>
     </div>
 </nav>
-

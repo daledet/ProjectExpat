@@ -11,7 +11,7 @@
         <article class="flex flex-col shadow my-4">
             <!-- Article Image -->
             <a href="#" class="hover:opacity-75">
-                <img src="https://source.unsplash.com/collection/1346951/1000x500?sig=1">
+                <img src="img/takeoff.jpg">
             </a>
             <div class="bg-white flex flex-col justify-start p-6">
                 <a href="#" class="text-blue-700 text-sm font-bold uppercase pb-4">Tag</a>
@@ -59,32 +59,32 @@
 <div class="container mx-auto sm:hidden md:flex justfy-between py-4">
     <div class="w-1/3 bg-white shadow flex flex-col m-2 p-6">
         <p class="text-xl font-semibold pb-5">Interviews</p>
-        <img src="img/250x200.jpg" class="hover:opacity-75" class="mb-2">
+        <img src="img/interviews.jpg" class="hover:opacity-75" class="mb-2">
         <p class="pb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mattis est eu odio
             sagittis tristique. Vestibulum ut finibus leo. In hac habitasse platea dictumst.</p>
-        <a href="/interviews"
+        <a href="#"
             class="w-full bg-gray-600 text-white font-bold text-sm uppercase rounded hover:bg-blue-700 flex items-center justify-center px-2 py-3 mt-4">
-            Interviews
+            View
         </a>
     </div>
     <div class="w-1/3 bg-white shadow flex flex-col m-2 p-6">
         <p class="text-xl font-semibold pb-5">Articles</p>
-        <img src="img/250x200.jpg" class="hover:opacity-75" class="mb-2">
+        <img src="img/articles.jpg" class="hover:opacity-75" class="mb-2">
         <p class="pb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mattis est eu odio
             sagittis tristique. Vestibulum ut finibus leo. In hac habitasse platea dictumst.</p>
-        <a href="/posts"
+        <a href="#"
             class="w-full bg-gray-600 text-white font-bold text-sm uppercase rounded hover:bg-blue-700 flex items-center justify-center px-2 py-3 mt-4">
-            Articles
+            Read
         </a>
     </div>
     <div class="w-1/3 bg-white shadow flex flex-col m-2 p-6">
         <p class="text-xl font-semibold pb-5">About</p>
-        <img src="img/250x200.jpg" class="hover:opacity-75" class="mb-2">
+        <img src="img/about.jpg" class="hover:opacity-75" class="mb-2">
         <p class="pb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas mattis est eu odio
             sagittis tristique. Vestibulum ut finibus leo. In hac habitasse platea dictumst.</p>
         <a href="/about"
             class="w-full bg-gray-600 text-white font-bold text-sm uppercase rounded hover:bg-blue-700 flex items-center justify-center px-2 py-3 mt-4">
-            Information
+            Learn
         </a>
     </div>
 </div>
